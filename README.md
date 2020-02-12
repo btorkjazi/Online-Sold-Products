@@ -1,0 +1,2 @@
+# Online-Sold-Products
+For this project I used the dataset of information about sold electronics online such as their price, condition, availability, manufacturer, categories, weight, and etc. I cleaned this dataset using data cleaning techniques and used it to provide some high level statistics and visualizations about the products, prices, and other factors individually and also in relationship with each other.
